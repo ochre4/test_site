@@ -1,0 +1,65 @@
+.rass {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #0d9db3;
+    padding: 5px;
+    border-radius: 5px;
+    color: (19, 7, 7);
+    font-size: 24px;
+}
+
+.ded {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #29ab87;
+    padding: 5px;
+    border-radius: 5px;
+    color: (19, 7, 7);
+    font-size: 24px;
+}
+
+.babka {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #00d1a0;
+    padding: 5px;
+    border-radius: 5px;
+    color: (19, 7, 7);
+    font-size: 24px;
+}
+
+.kol {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #77dd77;
+    padding: 5px;
+    border-radius: 5px;
+    color: (19, 7, 7);
+    font-size: 24px;
+}
+
+.za {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #bb6c8a;
+    padding: 5px;
+    border-radius: 5px;
+    color: (19, 7, 7);
+    font-size: 24px;
+}
+
+.end {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #ad6596;
+    padding: 5px;
+    border-radius: 5px;
+    color: (19, 7, 7);
+    font-size: 24px;
+}
